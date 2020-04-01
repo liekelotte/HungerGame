@@ -11,7 +11,9 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\index.html"
+            "program": "${workspaceFolder}\\index.html",
+            "outFiles": ["${workspaceFolder}/out/*/.js"],
+            "sourceMaps": true
         }
     ]
 }
