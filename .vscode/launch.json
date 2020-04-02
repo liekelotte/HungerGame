@@ -12,8 +12,8 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\index.html",
-            "outFiles": ["${workspaceFolder}/out/*/.js"],
-            "sourceMaps": true
+            "outFiles": ["${workspaceFolder}/*.js"],
+            // "sourceMaps": true
         }
     ]
 }
