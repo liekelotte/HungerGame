@@ -20,13 +20,15 @@ if (jQuery) {
   };
 
   $("#question1").show();
+  //$("#question2").show();
+  //$("#question3").show();
 };
 
-// if(impress){
-//   $("#question2").show();
-// };
+if(jQuery){
+  $("#question2").show();
+};
 
-// if(atom){
-//   $("question3").show();
-// };
+if(jQuery){
+  $("#question3").show();
+};
 
