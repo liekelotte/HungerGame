@@ -1,58 +1,24 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Hunger Game</title>
-    <meta charset="UTF-8" />
-    <link rel="stylesheet" type="text/css" href="main.css">
-    <style>
-      #gameScreen {
-        border: 1px solid black;
-      }
-    </style>
-  </head>
-
-  <body>
-    <h1>Quiz</h1>
-    <div id="quiz">
-      <div id="question1">
-        <div class="question">What is my name?</div>
-        <input type="radio" name="question 1" value="a" /><label>Lieke</label>
-        <input type="radio" name="question 1" value="b" /><label
-          >Something else</label>
-      </div>
-      
-        <div id="question2">
-          <div class="question">What is my name?</div>
-          <input type="radio" name="question 2" value="a" /><label>Lieke</label>
-          <input type="radio" name="question 2" value="b" /><label
-            >Something else</label>
-      </div>
-
-      <div id="question3">
-        <div class="question">What is not my name?</div>
-        <input type="radio" name="question 3" value="a" /><label>Lieke</label>
-        <input type="radio" name="question 3" value="b" /><label
-          >Something else</label>
-    </div>
-
-    </div>
-
-    <!-- <canvas id="gameScreen" width="800" height="600"></canvas> -->
-    <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
-    <script src="./js/jquery-3.4.1.min.js"></script>
-    <script src="./game.js"></script>
-    <!-- <script>window.jQuery || document.write('<script src="./js/jquery-3.4.1.min.js"><\/script>')</script> -->
-    <!-- atom needs this to run --> 
-    <!-- <canvas></canvas> 
-    <script src="./js/atom.js"></script> 
-    <script src="./js/crafty.js"></script> 
-    <script src="./js/easeljs.js"></script> 
-    <script src="./js/enchant.js"></script> 
-    <script src="./js/impress.js"></script> 
-    <script src="./js/jaws.js"></script> 
-    <script src="./js/jquery.gamequery.js"></script> 
-    <script src="./js/melonjs.js"></script> 
-    <script src="./js/yabble.js"></script>  -->
-
-  </body>
+	<head>
+        <style type = "text/css">
+            body{
+                background: #000000;
+                padding: 0px;
+                margin: 0px;
+            }
+            canvas{
+                display:block;
+                margin: 0;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+        </style>
+        <script src = "phaser.min.js"></script>
+        <script src = "game.js"></script>
+    </head>
+	<body>
+	</body>
 </html>
