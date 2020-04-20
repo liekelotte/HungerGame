@@ -13,8 +13,8 @@
    version="1.1"
    id="svg2"
    width="400"
-   height="100.00002"
-   viewBox="0 0 400 100.00002"
+   height="100"
+   viewBox="0 0 400 99.999993"
    sodipodi:docname="tiles2.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
@@ -48,18 +48,25 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.5220474"
-     inkscape:cx="122.06332"
-     inkscape:cy="-46.819603"
+     inkscape:zoom="3.0440948"
+     inkscape:cx="188.05703"
+     inkscape:cy="111.97455"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g6763" />
   <g
      id="g6763"
-     transform="matrix(0.75000003,0,0,0.75000003,-347.93973,-181.16027)">
+     transform="matrix(0.75000003,0,0,0.75000003,-346.01872,-183.0704)">
+    <rect
+       style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:6.37850332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4528"
+       width="533.33331"
+       height="133.33333"
+       x="461.35828"
+       y="244.09386" />
     <g
-       transform="matrix(0.99701243,0,0,0.99701243,94.91739,146.56275)"
+       transform="matrix(0.97707214,0,0,0.97707214,106.3956,152.22413)"
        id="g6409">
       <g
          transform="translate(-0.78632129,-0.0017097)"
@@ -126,7 +133,7 @@
     </g>
     <g
        style="fill:#fef7d1;fill-opacity:1;stroke:#cead04;stroke-opacity:1"
-       transform="matrix(0.99701243,0,0,0.99701243,2.0747433,1.1199823)"
+       transform="matrix(0.97707214,0,0,0.97707214,18.063625,9.6902217)"
        id="g6669">
       <g
          id="g6409-5"
@@ -149,7 +156,7 @@
          y="258.01392" />
     </g>
     <g
-       transform="matrix(0.99701243,0,0,0.99701243,1.4957923,1.1199788)"
+       transform="matrix(0.97707214,0,0,0.97707214,12.188675,9.6902217)"
        id="g6700">
       <g
          id="g6409-4"
@@ -221,7 +228,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.99701243,0,0,0.99701243,1.49579,1.1199823)"
+       transform="matrix(0.97707214,0,0,0.97707214,9.5348967,9.6628463)"
        id="g6714">
       <g
          id="g6409-4-8"
